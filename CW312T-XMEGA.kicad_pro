@@ -459,7 +459,7 @@
     },
     "net_colors": {
       "VCC": "rgb(18, 255, 15)",
-      "VCC CLEAN": "rgb(255, 0, 239)"
+      "VCC CLEAN": "rgb(0, 255, 202)"
     },
     "netclass_assignments": null,
     "netclass_patterns": []
