@@ -458,7 +458,7 @@
       "version": 3
     },
     "net_colors": {
-      "VCC": "rgb(18, 255, 15)",
+      "VCC": "rgb(72, 255, 46)",
       "VCC CLEAN": "rgb(0, 255, 202)"
     },
     "netclass_assignments": null,
